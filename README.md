@@ -11,6 +11,9 @@ I showed different visualization techniques on https://archive.ics.uci.edu/ml/da
 Thi sproject showed how to build decision tree model for different data sets, how to evaluate model by holdout and cross-validation techniques . Also, I 
     investigated the overfitting issue for the decision tree model.
 
+### Classification2 
+This project demontrates how to build a k-NN model for different data sets and how to determine/compare the efficiency of models. Moreover, I performed hyperparameter setting and model selection.
+
 
 
 
