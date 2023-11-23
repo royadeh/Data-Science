@@ -5,7 +5,7 @@ Welcome to my Data Science Portfolio! This repository showcases some of my favor
 ## Contents
 
 ### Data Exploratory Analysis 
-A Django-based web application in Python3 and Javascript to predict Bitcoin Price.
+
 
 
 Feel free to explore each project folder for detailed information and code documentation.
