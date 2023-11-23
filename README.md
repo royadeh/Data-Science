@@ -7,6 +7,11 @@ Welcome to my Data Science Portfolio! This repository showcases some of my favor
 ### Data Exploratory Analysis 
 I showed different visualization techniques on https://archive.ics.uci.edu/ml/datasets/Adult dataset.
 
+### Classification1 
+Thi sproject showed how to build decision tree model for different data sets, how to evaluate model by holdout and cross-validation techniques . Also, I 
+    investigated the overfitting issue for the decision tree model.
+
+
 
 
 
