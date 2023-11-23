@@ -20,6 +20,10 @@ This project shows how to apply k-means and hierarchical clustering to the datas
 ### Clustering2
 I showed how to applying DBSCAN clustering different benchmark data sets and Compared and analyzed the results.
 
+### Anamoly Detection in Data
+I applied different anomaly detection techniques and then Compared and see the behaviour of diffrent approaches.
+
+
 
 
 
